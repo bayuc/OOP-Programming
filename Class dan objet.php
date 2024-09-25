@@ -9,7 +9,7 @@ class Mobil{
     public $Tahun_produksi = 0,
            $Jenis = "jenis",
            $Warna = "warna" ,
-           $Harga = 0;
+           $Harga = 10000;
 
 }
 
