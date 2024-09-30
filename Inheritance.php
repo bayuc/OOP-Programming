@@ -75,7 +75,7 @@ Class InfoMobil{
     }
 }
 
-$Mobil = new Car("Mobil", "2020", "Sport Car","Hitam",250000000000, "Firelli", "Manual", "BMW");
+$Mobil = new Car("Mobil", "2023", "Sport Car","Hitam",250000000000, "Firelli", "Manual", "BMW");
 $Motor = new Motor("Motor", "2010", "Bebek", "Merah", " 120000000", "Micellin", "Manual", "Yamaha");
 
 echo $Motor->getLengkap();
